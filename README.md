@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayXT0
+- 👋 Hi, I’m @JayXT0, I'm a 15 year old computing science student.
 - 🌱 I’m currently learning C+, Javascript and Python
 - 📫 You can Contact me at Jay.#6938 on discord.
 
